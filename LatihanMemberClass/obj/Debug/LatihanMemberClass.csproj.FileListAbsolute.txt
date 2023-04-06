@@ -1,0 +1,6 @@
+D:\22.11.5142\tugas\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe.config
+D:\22.11.5142\tugas\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csprojResolveAssemblyReference.cache
+D:\22.11.5142\tugas\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe
+D:\22.11.5142\tugas\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.pdb
+D:\22.11.5142\tugas\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.exe
+D:\22.11.5142\tugas\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.pdb
